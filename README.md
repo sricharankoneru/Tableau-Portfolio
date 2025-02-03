@@ -7,5 +7,4 @@ A collection of Tableau projects showcasing data analysis and visualization skil
    - **Description**: This project focuses on analyzing customer churn in a telecom dataset. It identifies key churn factors and provides insights into customer retention strategies.
    - **Files**:
      - `customer-churn-analysis.twb`: The Tableau workbook containing visualizations and dashboards.
-     - `data/`: Contains the input data files used for the analysis (e.g., `churn_data.csv`).
-     - `metadata/`: Descriptions of the fields used in the dataset and custom calculations.
+     - `data/`: Contains the input data files used for the analysis and the metadata file with field descriptors.
